@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="placeName">
+        <item>home|A3859A71953341D9B0DC23356F4C1E04</item>
+        <item>office|79777E217C254CCFB9FA8C3F3E871A2B</item>
+    </string-array>
+</resources>

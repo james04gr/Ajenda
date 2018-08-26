@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ajenda</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="searchable">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gimbal_API_KEY">f9a75eff-d6cc-42c3-ad7b-34c3bd61a540</string>
+    <string name="gimbal_text">No Beacons or Places Detected!</string>
+    <string name="error_text">Σφάλμα Δικτύου. Ενεργοποιήστε το WiFi και δοκιμάστε ξανά!</string>
+    <string name="FullName">full_name</string>
+    <string name="Section">section</string>
+    <string name="Subjects">courses</string>
+</resources>

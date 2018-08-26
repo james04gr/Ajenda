@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gimbal-slf4j-impl-2.72">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/39a002883a6ce576509c649559654b394c266a95/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/39a002883a6ce576509c649559654b394c266a95/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gimbal.android.v2/gimbal-slf4j-impl/2.72/5a151e7a2a0d41795e97bd7eaf83d037b0b3d026/gimbal-slf4j-impl-2.72-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
